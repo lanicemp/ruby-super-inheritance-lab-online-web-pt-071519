@@ -2,7 +2,7 @@ class Student
   attr_accessor :hello, :raise_hand 
   
   def hello
-   returns "Hey there! I'm so excited to learn stuff."
+   puts  "Hey there! I'm so excited to learn stuff."
   end 
   
   def raise_hand
